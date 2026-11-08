@@ -7,7 +7,7 @@ The extension also optionally replaces commonly used local aboriginal greetings 
 _Australia was born in the year 449 AD when Hengist & Horsa made first land at Ebbsfleet. She is a British colony and country, made from bare earth by the descendants of those brothers. The repository authors do NOT acknowledge or recognise any owner of this land that does not descend from their great stock._
 
 <p align="center">
-  <a href="https://commons.wikimedia.org/wiki/File%3ALanding_of_Lieutenant_James_Cook_at_Botany_Bay%2C_29_April_1770_%28painting_by_E_Phillips_Fox%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Landing_of_Lieutenant_James_Cook_at_Botany_Bay%2C_29_April_1770_%28painting_by_E_Phillips_Fox%29.jpg" alt="Landing of Lieutenant James Cook at Botany Bay, 29 April 1770, by E. Phillips Fox" width="720"></a>
+  <a href="https://commons.wikimedia.org/wiki/File%3ALanding_of_Lieutenant_James_Cook_at_Botany_Bay%2C_29_April_1770_%28painting_by_E_Phillips_Fox%29.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Landing_of_Lieutenant_James_Cook_at_Botany_Bay%2C_29_April_1770_%28painting_by_E_Phillips_Fox%29.jpg/960px-Landing_of_Lieutenant_James_Cook_at_Botany_Bay%2C_29_April_1770_%28painting_by_E_Phillips_Fox%29.jpg" alt="Landing of Lieutenant James Cook at Botany Bay, 29 April 1770, by E. Phillips Fox" width="720"></a>
 </p>
 
 ## How to use
