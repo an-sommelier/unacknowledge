@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>au acknowledgement blocker</title>
+    <style>
+      body {
+        width: 260px;
+        margin: 0;
+        padding: 16px;
+        color: #1f1f1f;
+        font: 14px/1.4 system-ui, sans-serif;
+      }
+
+      label {
+        display: grid;
+        grid-template-columns: 18px minmax(0, 1fr);
+        gap: 10px;
+        align-items: flex-start;
+      }
+
+      input {
+        margin: 2px 0 0;
+      }
+
+      .setting-title {
+        display: block;
+        font-weight: 600;
+      }
+
+      .setting-subtitle {
+        display: block;
+        margin-top: 3px;
+        color: #555;
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 1.35;
+      }
+    </style>
+  </head>
+  <body>
+    <label>
+      <input id="greeting-replacement" type="checkbox">
+      <span>
+        <span class="setting-title">Use English Welcome</span>
+        <span class="setting-subtitle">Replaces common aboriginal language welcomes with English on Australian websites.</span>
+      </span>
+    </label>
+    <script src="popup.js"></script>
+  </body>
+</html>
